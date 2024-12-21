@@ -41,6 +41,8 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 5.Repeat steps 2-4 for each bit you want to input and shift.
 
 **PROGRAM**
+
+
 Developed By : Vaitheswaran N 
 Register Number : 24901212
 
